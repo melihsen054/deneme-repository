@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.melihsen</groupId>
-        <artifactId>demo</artifactId>
+        <artifactId>demo-rest-service</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
